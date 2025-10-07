@@ -56,6 +56,3 @@ FizzBuzz
 
 If you want to use a different font, you can update the `font-family` property in the `styles.css` file. The current preferred font is "Fiolex Mephisto".
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
